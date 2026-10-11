@@ -1,4 +1,13 @@
-# Video explainer — Kebakaran Kalimantan
+# Video explainer
+
+## Lengket terus? — kaki serangga
+
+Animasi **Continuous action**, sekitar 38,84 detik, 16:9, 1920×1080, 30 fps, dengan VO yang disediakan pengguna. Teks minimal: hook “Lengket terus?” dan label “Menempel” / “Terlepas”.
+
+- [Unduh video serangga MP4](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/serangga-vo/serangga-vo.mp4)
+- [Unduh paket serangga ZIP](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/serangga-vo/paket-serangga-vo.zip) — MP4, HTML mandiri dengan VO, poster, transkrip kerja, dan lisensi.
+
+## Kebakaran Kalimantan
 
 Animasi **Continuous action**, 15 detik, 16:9, 1920×1080, 30 fps, tanpa audio. Dibuat dengan Bang Motion.
 
