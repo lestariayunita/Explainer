@@ -1,5 +1,12 @@
 # Video explainer
 
+## Tiny human — manusia setinggi 5 mm
+
+Explainer **Continuous action**, sekitar **4 menit 1 detik**, **16:9**, **1080p**, dengan VO Inggris asli pengguna dan teks penting saja. Bang Motion sebagai acuan gaya; implementasi JavaScript, HyperFrames, dan Remotion.
+
+- [Unduh video Tiny human MP4](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/tiny-human/tiny-human.mp4)
+- [Unduh paket lengkap Tiny human ZIP](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/tiny-human/paket-tiny-human.zip) — video, sumber HyperFrames dan Remotion, aset lokal, VO, poster, dan transkrip kerja.
+
 ## Lengket terus? — kaki serangga
 
 Animasi **Continuous action**, sekitar 38,84 detik, 16:9, 1920×1080, 30 fps, dengan VO yang disediakan pengguna. Teks minimal: hook “Lengket terus?” dan label “Menempel” / “Terlepas”.
