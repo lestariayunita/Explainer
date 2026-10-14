@@ -1,5 +1,12 @@
 # Video explainer
 
+## Preview 15 detik — Remotion + HyperFrames + JavaScript
+
+Desain baru, 16:9, 1080p, 30fps, dengan 15 detik pembuka VO asli. Dibuat tanpa acuan Bang Motion.
+
+- [Unduh preview MP4](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/preview-remotion-hyperframes/preview-15s.mp4)
+- [Unduh paket preview ZIP](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/preview-remotion-hyperframes/paket-preview-15s.zip)
+
 ## Tiny human — manusia setinggi 5 mm
 
 Explainer **Continuous action**, sekitar **4 menit 1 detik**, **16:9**, **1080p**, dengan VO Inggris asli pengguna dan teks penting saja. Bang Motion sebagai acuan gaya; implementasi JavaScript, HyperFrames, dan Remotion.
