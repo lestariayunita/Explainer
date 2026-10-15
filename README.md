@@ -1,5 +1,12 @@
 # Video explainer
 
+## Preview buku cerita — Blender + Python + FFmpeg
+
+Preview 15 detik tentang manusia seukuran semut, 16:9, 1080p, dengan ilustrasi baru bergaya buku cerita dan VO pembuka yang sama. Animasi cutout 2.5D dirender di Blender.
+
+- [Unduh preview buku cerita MP4](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/preview-storybook-blender/preview-storybook-15s.mp4)
+- [Unduh paket dan proyek Blender ZIP](https://github.com/lestariayunita/Explainer/raw/refs/heads/main/preview-storybook-blender/paket-storybook-15s.zip)
+
 ## Preview 15 detik — Remotion + HyperFrames + JavaScript
 
 Desain baru, 16:9, 1080p, 30fps, dengan 15 detik pembuka VO asli. Dibuat tanpa acuan Bang Motion.
